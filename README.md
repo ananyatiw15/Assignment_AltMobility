@@ -1,7 +1,7 @@
-# Assignment_AltMobility
+# Retention and Sales Analysis
 
 
-This repository contains the complete solution for the Data Analyst Intern assignment by **Alt Mobility**. The goal is to analyze sales and payment data using SQL, perform customer behavior and retention analysis, and visualize retention insights using Power BI.
+The goal is to analyze sales and payment data using SQL, perform customer behavior and retention analysis, and visualize retention insights using Power BI.
 
 ---
 
